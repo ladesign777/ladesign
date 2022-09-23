@@ -1,0 +1,290 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+  .nav-link {
+      font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  
+  color: white;
+  
+  }
+
+  .been {
+    font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+margin-top: 100px;
+margin-left: 500px;
+
+
+/* main/main */
+
+color: #3D3D3D;
+
+  }
+
+.comford p{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #393246;
+    margin-left: 100px;
+
+    
+}.logo {
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+  .script {
+    font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+margin-left: 200px;
+
+/* main/main */
+
+color: #3D3D3D;
+
+  }
+
+  .have {
+    
+  }
+
+  .number {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-top: 150px;
+    margin-left: 600px;
+  
+    /* main/main */
+  
+    color: #3D3D3D;
+  
+  }
+  
+  .take {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-right: 480px;
+  
+    /* botton */
+  
+    color: #393246;
+  
+  }
+  
+  .destination {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-right: 480px;
+    margin-left: 290px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #393246;
+  }
+  
+  .dollar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .dollar h1 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 140px;
+    line-height: 164px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  
+  .dollar p {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  
+    color: #FFFFFF;
+  }
+  
+  .margin {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    /* main/main */
+  
+    color: #3D3D3D;
+  
+  }
+  
+  .bedroom {
+    display: flex;
+  
+  }
+  
+  .cushion h3 {
+    font-family: "Cormorant Garamond";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #5f4d5d;
+  }
+  
+  .cushion p {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #b0b0b0;
+  }
+  
+  .cushion {
+    padding-left: 26px;
+    padding-right: 26px;
+  }
+  
+  .cushin img {
+    margin-bottom: 100px;
+  }
+  
+  .bed {
+    margin-top: 15px;
+  }
+  
+  .bad {
+    margin-top: 15px;
+  }
+  
+  .btn-submit {
+    margin-top: 30px !important;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  
+  .some {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    justify-content: center;
+  
+    /* main/main */
+  
+    color: #3D3D3D;
+  
+  }
+  
+  .type {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  
+    /* main/main */
+  
+    color: #3D3D3D;
+  
+  }
+  
+  .comford p {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #393246;
+    margin-left: 190px;
+  }
+
+  .btn-submit{
+    padding: 20px;
+  }
+
